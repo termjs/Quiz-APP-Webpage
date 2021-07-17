@@ -8,6 +8,6 @@ username.addEventListener('keyup', () => {
 });
 
 saveHighScore = e => {
-    console.log('There is no JSON file with Highscores yet.');
+    console.log('There is no Highscore file yet.');
     e.preventDefault();
 };
