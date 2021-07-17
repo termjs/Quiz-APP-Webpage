@@ -11,4 +11,3 @@ So I figured out why not to try and make a quiz app + add API fetching to it.
 
 ## A little Peek
 <img src="https://i.imgur.com/5sLRVdh.png">
-
