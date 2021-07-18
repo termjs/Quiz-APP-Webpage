@@ -7,7 +7,7 @@ So I figured out why not to try and make a quiz app + add API fetching to it.
 
 ## Coming soon features
 - [ ] \(Highscores) Planning on displaying high scores.
-- [ ] \(API) Make app to be able to fetch questuins from API.
+- [ ] \(API) Make an app to be able to fetch questions from API.
 
 ## A little Peek
 <img src="https://i.imgur.com/5sLRVdh.png">
