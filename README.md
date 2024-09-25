@@ -24,4 +24,4 @@ The goal of this project was to experiment with building a functional quiz app u
 
 ## Live preview
 ![Website Mockup Preview](./quiz-app-preview.png)
-You can check out the live version of the quiz [here](https://termjs.github.io/quiz-app-webpage/).
+You can check out the live version of the quiz [here](https://termjs.github.io/Quiz-APP-Webpage/).
